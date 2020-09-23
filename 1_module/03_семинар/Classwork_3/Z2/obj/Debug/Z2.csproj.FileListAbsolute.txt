@@ -1,0 +1,6 @@
+C:\Users\Operator\source\repos\Classwork_3\Z2\bin\Debug\Z2.exe.config
+C:\Users\Operator\source\repos\Classwork_3\Z2\bin\Debug\Z2.exe
+C:\Users\Operator\source\repos\Classwork_3\Z2\bin\Debug\Z2.pdb
+C:\Users\Operator\source\repos\Classwork_3\Z2\obj\Debug\Z2.csproj.CoreCompileInputs.cache
+C:\Users\Operator\source\repos\Classwork_3\Z2\obj\Debug\Z2.exe
+C:\Users\Operator\source\repos\Classwork_3\Z2\obj\Debug\Z2.pdb
